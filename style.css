@@ -5,9 +5,7 @@
 
 /* Position the image container (needed to position the left and right arrows) */
 .container {
-  max-width: 1000px;
   position: relative;
-  margin: auto;
 }
 
 /* Hide the images by default */
