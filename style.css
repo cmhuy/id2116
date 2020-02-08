@@ -4,12 +4,34 @@
 }
 
 body {
-  color:white
+  color:white;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 #master-container {
   color:white;
-  width: 1000px
+  width: 800px
+}
+#nav {
+  color:black;
+}
+
+#nav ul {
+  list-style-type: none;
+}
+
+#ID2116 {
+  background-color: black;
+  color: white;
+}
+
+#title {
+  text-align: right;
+}
+
+#coding-for-design {
+  rotate: 90;
+  
 }
 
 /* Position the image container (needed to position the left and right arrows) */
