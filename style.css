@@ -47,7 +47,8 @@ body {
 }
 
 #header {
-  width: 500px ;
+  background-size: 500, 281, 500, 281;
+  float: right;
 }
 
 /* Position the image container (needed to position the left and right arrows) */
