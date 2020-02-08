@@ -22,8 +22,9 @@ body {
 
 #ID2116 {
   background-color: black;
-  background-size: contain;
+  text-align: right;
   color: white;
+  margin-block: black;
 }
 
 #title {
