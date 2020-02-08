@@ -70,14 +70,14 @@ body {
   transform: rotate(90deg);
   color: black;
   font-size: smaller;
-  transform: translate (-80%, 0%);
+  transform: translate (-50%, 50%);
 }
 
 #description {
   color: black;
   float: left;
   width: 180px;
-  margin-left: -94px;
+  margin-left: -100px;
   margin-top: 303px;
   font-size: xx-small;
 }
