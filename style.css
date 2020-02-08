@@ -67,7 +67,7 @@ body {
 }
 
 #coding-for-design {
-  transform: rotate(90deg);
+  transform: rotate(-90deg);
   color: black;
   font-size: smaller;
 }
