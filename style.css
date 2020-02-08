@@ -73,13 +73,14 @@ body {
   float: left;
   width: 180px;
   margin-left: -88px;
-  margin-top: 253px;
+  margin-top: 453px;
   font-size: xx-small;
 }
 
 #header {
   width: 600px;
   float: right;
+  margin-top: 200px;
 }
 
 /* Position the image container (needed to position the left and right arrows) */
