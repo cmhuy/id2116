@@ -25,11 +25,11 @@ body {
 #nav {
   color:black;
   text-align: left;
-  margin: 1px;
+  margin: 5px;
   padding-left: 5px;
   float: left;
   margin-top: 50px;
-  border-left: 6px black;
+  ;
 }
 
 #nav ul {
@@ -70,7 +70,7 @@ body {
   transform: rotate(-90deg);
   color: black;
   font-size: smaller;
-  object-position: 500px;
+  margin-left: -50px;
 }
 
 #description {
@@ -78,14 +78,14 @@ body {
   float: left;
   width: 180px;
   margin-left: -88px;
-  margin-top: 353px;
+  margin-top: 303px;
   font-size: xx-small;
 }
 
 #header {
   width: 600px;
   float: right;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 /* Position the image container (needed to position the left and right arrows) */
