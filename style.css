@@ -10,10 +10,16 @@ body {
 
 #master-container {
   color:white;
-  width: 800px
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 #nav {
   color:black;
+  text-align: left;
+  margin: 0;
+  padding: 0
 }
 
 #nav ul {
@@ -24,15 +30,16 @@ body {
   background-color: black;
   text-align: right;
   color: white;
-  margin-block: black;
 }
 
 #title {
   text-align: right;
+  color: black;
 }
 
 #coding-for-design {
-  rotate: 90;
+  transform: rotate(90);
+  color: black;
 
 }
 
