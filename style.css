@@ -50,13 +50,13 @@ body {
   text-align: right;
   color: black;
   float: right;
-  margin-top: 80px;
+  margin-top: 90px;
   margin-right: -57px;
 }
 
 #title h1 {
   padding: 0;
-  margin: 0;
+  margin: 0;  
 }
 
 #title h4 {
