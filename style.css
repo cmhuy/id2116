@@ -70,7 +70,7 @@ body {
   transform: rotate(90deg);
   color: black;
   font-size: smaller;
-  transform: translate (-50%, 50%);
+  margin-bottom: -99px;
 }
 
 #description {
