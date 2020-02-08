@@ -61,7 +61,7 @@ body {
 #description {
   color: black;
   float: left;
-
+  width: 180px;
 }
 
 #header {
