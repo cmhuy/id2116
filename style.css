@@ -15,6 +15,13 @@ body {
   margin-right: auto;
 }
 
+.container-header {
+  color: white;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #nav {
   color:black;
   text-align: left;
@@ -56,6 +63,7 @@ body {
   transform: rotate(-90deg);
   color: black;
   font-size: smaller;
+  object-position: 500px;
 }
 
 #description {
