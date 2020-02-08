@@ -26,9 +26,10 @@ body {
   color:black;
   text-align: left;
   margin: 0;
-  padding: 0;
+  padding-left: 5px;
   float: left;
   margin-top: 50px;
+  border-left: 2px black;
 }
 
 #nav ul {
