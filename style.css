@@ -38,9 +38,16 @@ body {
 }
 
 #coding-for-design {
-  transform: rotate(90);
+  transform: rotate(-90deg);
   color: black;
+}
 
+#description {
+  color: black;
+}
+
+#header {
+  width: 500px ;
 }
 
 /* Position the image container (needed to position the left and right arrows) */
