@@ -169,3 +169,10 @@ body {
 .demo:hover {
   opacity: 1;
 }
+
+#mindon {
+  position:fixed;
+  right:0px;
+  top:0px;
+
+}
