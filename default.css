@@ -158,7 +158,9 @@
 /*********************************************************************************/
 /* Button Style                                                                  */
 /*********************************************************************************/
-
+ul.actions li
+{display: inline;
+}
 	.button1
 	{
 		display: inline-block;
@@ -173,7 +175,7 @@
 		font-size: 1em;
 		color: #FFF;
 	}
-	.button
+	.button2
 	{
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
@@ -187,7 +189,7 @@
 		font-size: 1em;
 		color: #FFF;
 	}
-	.button
+	.button3
 	{
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
@@ -201,7 +203,7 @@
 		font-size: 1em;
 		color: #FFF;
 	}
-	.button
+	.button4
 	{
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
@@ -215,7 +217,7 @@
 		font-size: 1em;
 		color: #FFF;
 	}
-	.button
+	.button5
 	{
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
@@ -229,7 +231,7 @@
 		font-size: 1em;
 		color: #FFF;
 	}
-	.button
+	.button6
 	{
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
@@ -243,7 +245,7 @@
 		font-size: 1em;
 		color: #FFF;
 	}
-	.button
+	.button7
 	{
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
@@ -257,7 +259,7 @@
 		font-size: 1em;
 		color: #FFF;
 	}
-	.button
+	.button8
 	{
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
@@ -271,7 +273,7 @@
 		font-size: 1em;
 		color: #FFF;
 	}
-	.button
+	.button9
 	{
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
@@ -285,7 +287,7 @@
 		font-size: 1em;
 		color: #FFF;
 	}
-	.button
+	.button10
 	{
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
@@ -299,7 +301,7 @@
 		font-size: 1em;
 		color: #FFF;
 	}
-	.button
+	.button11
 	{
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
@@ -313,7 +315,7 @@
 		font-size: 1em;
 		color: #FFF;
 	}
-	.button
+	.button12
 	{
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
@@ -327,7 +329,7 @@
 		font-size: 1em;
 		color: #FFF;
 	}
-	.button
+	.button13
 	{
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
