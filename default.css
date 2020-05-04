@@ -474,7 +474,7 @@ ul.actions li
 	
 	#header
 	{
-		position: absolute;
+		position: fixed;
 		padding: 2em 0em;
 	}
 
