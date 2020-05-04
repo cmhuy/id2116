@@ -441,7 +441,7 @@ ul.actions li
 	}
 
 /*********************************************************************************/
-/* Header                                                                        */
+/* Week01                                                                       */
 /*********************************************************************************/
 
 	#week01
@@ -552,12 +552,12 @@ ul.actions li
 	
 	#banner .title h2
 	{
-		font-size: 4em;
+		font-size: 2em;
 	}
 	
 	#banner .title .byline
 	{
-		font-size: 2em;
+		font-size: 1em;
 	}
 	
 	#banner .button
