@@ -165,7 +165,8 @@ html {
 .actions
 {
 	position: fixed;
-	bottom: 5em;
+	bottom: 2em;
+	text-align: center;
 }
 
 ul.actions li
