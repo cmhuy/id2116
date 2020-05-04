@@ -158,6 +158,11 @@
 /*********************************************************************************/
 /* Button Style                                                                  */
 /*********************************************************************************/
+.actions
+{
+	position: relative;
+}
+
 ul.actions li
 {display: inline;
 }
@@ -475,7 +480,7 @@ ul.actions li
 
 	#logo
 	{
-		position: absolute;
+		position: relative;
 		top: 0.7em;
 		left: 0;
 	}
@@ -498,7 +503,7 @@ ul.actions li
 
 	#menu
 	{
-		position: absolute;
+		position: relative;
 		top: 1em;
 		right: 0;
 	}
