@@ -167,7 +167,8 @@ html {
 	position: fixed;
 	bottom: 2em;
 	text-align: center;
-	left: 19em
+	left: 19em;
+	z-index: 1;
 }
 
 ul.actions li
@@ -479,6 +480,7 @@ ul.actions li
 	{
 		position: fixed;
 		padding: 2em 0em;
+		z-index: 1;
 	}
 
 /*********************************************************************************/
