@@ -167,7 +167,7 @@ html {
 	position: fixed;
 	bottom: 2em;
 	text-align: center;
-	left: 19em;
+	left: 17em;
 	z-index: 1;
 }
 
@@ -462,6 +462,7 @@ ul.actions li
 		position: relative;
 		padding: 2em 0em 5em 0em;
 		background: #FFF;
+		z-index: -1;
 	}
 
 /*********************************************************************************/
@@ -654,6 +655,7 @@ ul.actions li
 		background-size: cover;
 		text-align: center;
 		overflow: hidden;
+		z-index: -1;
 	}
 	
 	#welcome .container
