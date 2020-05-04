@@ -365,12 +365,12 @@ ul.actions li
 	.box1,
 	.box2,
 	.box3,
+	{
+		float: left;
+		margin-right: 20px;
+	}
 	
 
-
-
-
-	
 	.box4
 	{
 		float: right;
