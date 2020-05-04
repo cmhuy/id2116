@@ -167,7 +167,7 @@ html {
 	position: fixed;
 	bottom: 2em;
 	text-align: center;
-	left: 14em;
+	left: 15em;
 	z-index: 1;
 }
 
@@ -490,9 +490,8 @@ ul.actions li
 
 	#logo
 	{
-		position: relative;
+		position: absolute;
 		top: 0em;
-		left: 1em;
 	}
 	
 	#logo h1
