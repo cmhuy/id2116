@@ -162,11 +162,6 @@ html {
 /*********************************************************************************/
 /* Button Style                                                                  */
 /*********************************************************************************/
-.actions
-{
-	position: relative;
-}
-
 ul.actions li
 {display: inline;
 }
@@ -466,7 +461,7 @@ ul.actions li
 
 	#header-wrapper
 	{
-		position: relative;
+		position: aosolute;
 		padding: 5em 0em 5em 0em;
 		background: #111111 url(images/cover.jpg) no-repeat center;
 		background-size: cover;
@@ -474,7 +469,7 @@ ul.actions li
 	
 	#header
 	{
-		position: relative;
+		position: absolute;
 		padding: 2em 0em;
 	}
 
@@ -484,7 +479,7 @@ ul.actions li
 
 	#logo
 	{
-		position: relative;
+		position: absolute;
 		top: 0.7em;
 		left: 0;
 	}
@@ -507,7 +502,7 @@ ul.actions li
 
 	#menu
 	{
-		position: relative;
+		position: absolute;
 		top: 1em;
 		right: 0;
 	}
