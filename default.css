@@ -181,7 +181,7 @@ ul.actions li
 		padding: 1em 1em 1em 1em;
 		letter-spacing: 0.10em;
 		margin-top: 2em;
-		padding: 1.40em 3em;
+		padding: 2em 2em;
 		border: 2px solid rgba(255,255,255,1);
 		border-radius: 6px;
 		text-decoration: none;
@@ -195,7 +195,7 @@ ul.actions li
 		padding: 1em 1em 1em 1em;
 		letter-spacing: 0.10em;
 		margin-top: 2em;
-		padding: 1.40em 3em;
+		padding: 2em 2em;
 		border: 2px solid rgba(255,255,255,1);
 		border-radius: 6px;
 		text-decoration: none;
@@ -209,7 +209,7 @@ ul.actions li
 		padding: 1em 1em 1em 1em;
 		letter-spacing: 0.10em;
 		margin-top: 2em;
-		padding: 1.40em 3em;
+		padding: 2em 2em;
 		border: 2px solid rgba(255,255,255,1);
 		border-radius: 6px;
 		text-decoration: none;
@@ -223,7 +223,7 @@ ul.actions li
 		padding: 1em 1em 1em 1em;
 		letter-spacing: 0.10em;
 		margin-top: 2em;
-		padding: 1.40em 3em;
+		padding: 2em 2em;
 		border: 2px solid rgba(255,255,255,1);
 		border-radius: 6px;
 		text-decoration: none;
@@ -237,7 +237,7 @@ ul.actions li
 		padding: 1em 1em 1em 1em;
 		letter-spacing: 0.10em;
 		margin-top: 2em;
-		padding: 1.40em 3em;
+		padding: 2em 2em;
 		border: 2px solid rgba(255,255,255,1);
 		border-radius: 6px;
 		text-decoration: none;
@@ -251,7 +251,7 @@ ul.actions li
 		padding: 1em 1em 1em 1em;
 		letter-spacing: 0.10em;
 		margin-top: 2em;
-		padding: 1.40em 3em;
+		padding: 2em 2em;
 		border: 2px solid rgba(255,255,255,1);
 		border-radius: 6px;
 		text-decoration: none;
@@ -265,7 +265,7 @@ ul.actions li
 		padding: 1em 1em 1em 1em;
 		letter-spacing: 0.10em;
 		margin-top: 2em;
-		padding: 1.40em 3em;
+		padding: 2em 2em;
 		border: 2px solid rgba(255,255,255,1);
 		border-radius: 6px;
 		text-decoration: none;
@@ -279,7 +279,7 @@ ul.actions li
 		padding: 1em 1em 1em 1em;
 		letter-spacing: 0.10em;
 		margin-top: 2em;
-		padding: 1.40em 3em;
+		padding: 2em 2em;
 		border: 2px solid rgba(255,255,255,1);
 		border-radius: 6px;
 		text-decoration: none;
@@ -293,7 +293,7 @@ ul.actions li
 		padding: 1em 1em 1em 1em;
 		letter-spacing: 0.10em;
 		margin-top: 2em;
-		padding: 1.40em 3em;
+		padding: 2em 2em;
 		border: 2px solid rgba(255,255,255,1);
 		border-radius: 6px;
 		text-decoration: none;
@@ -307,7 +307,7 @@ ul.actions li
 		padding: 1em 1em 1em 1em;
 		letter-spacing: 0.10em;
 		margin-top: 2em;
-		padding: 1.40em 3em;
+		padding: 2em 2em;
 		border: 2px solid rgba(255,255,255,1);
 		border-radius: 6px;
 		text-decoration: none;
@@ -321,7 +321,7 @@ ul.actions li
 		padding: 1em 1em 1em 1em;
 		letter-spacing: 0.10em;
 		margin-top: 2em;
-		padding: 1.40em 3em;
+		padding: 2em 2em;
 		border: 2px solid rgba(255,255,255,1);
 		border-radius: 6px;
 		text-decoration: none;
@@ -335,7 +335,7 @@ ul.actions li
 		padding: 1em 1em 1em 1em;
 		letter-spacing: 0.10em;
 		margin-top: 2em;
-		padding: 1.40em 3em;
+		padding: 2em 2em;
 		border: 2px solid rgba(255,255,255,1);
 		border-radius: 6px;
 		text-decoration: none;
@@ -365,10 +365,11 @@ ul.actions li
 	.box1,
 	.box2,
 	.box3,
-	{
-		float: left;
-		margin-right: 20px;
-	}
+	
+
+
+
+
 	
 	.box4
 	{
