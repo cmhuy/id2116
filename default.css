@@ -454,7 +454,7 @@ ul.actions li
 	}
 
 /*********************************************************************************/
-/* Week01                                                                       */
+/* Week01 to Week13                                                                     */
 /*********************************************************************************/
 
 	#week01
@@ -465,6 +465,90 @@ ul.actions li
 		z-index: -1;
 	}
 
+	#week02
+	{
+		position: relative;
+		padding: 2em 0em 5em 0em;
+		background: #FFF;
+		z-index: -1;
+	}
+	#week03
+	{
+		position: relative;
+		padding: 2em 0em 5em 0em;
+		background: #FFF;
+		z-index: -1;
+	}
+	#week04
+	{
+		position: relative;
+		padding: 2em 0em 5em 0em;
+		background: #FFF;
+		z-index: -1;
+	}
+	#week05
+	{
+		position: relative;
+		padding: 2em 0em 5em 0em;
+		background: #FFF;
+		z-index: -1;
+	}
+	#week06
+	{
+		position: relative;
+		padding: 2em 0em 5em 0em;
+		background: #FFF;
+		z-index: -1;
+	}
+	#week07
+	{
+		position: relative;
+		padding: 2em 0em 5em 0em;
+		background: #FFF;
+		z-index: -1;
+	}
+	#week08
+	{
+		position: relative;
+		padding: 2em 0em 5em 0em;
+		background: #FFF;
+		z-index: -1;
+	}
+	#week09
+	{
+		position: relative;
+		padding: 2em 0em 5em 0em;
+		background: #FFF;
+		z-index: -1;
+	}
+	#week10
+	{
+		position: relative;
+		padding: 2em 0em 5em 0em;
+		background: #FFF;
+		z-index: -1;
+	}
+	#week11
+	{
+		position: relative;
+		padding: 2em 0em 5em 0em;
+		background: #FFF;
+		z-index: -1;
+	}
+	#week12
+	{
+		position: relative;
+		padding: 2em 0em 5em 0em;
+		background: #FFF;
+		z-index: -1;
+	}
+	#week13
+	{
+		position: relative;
+		padding: 2em 0em 5em 0em;
+		background: #FFF;
+		z-index: -1;
+	}
 /*********************************************************************************/
 /* Header                                                                        */
 /*********************************************************************************/
