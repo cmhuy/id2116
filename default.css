@@ -15,7 +15,7 @@ html {
 		font-family: 'Didact Gothic', sans-serif;
 		font-size: 12pt;
 		font-weight: 200;
-		color: rgb(255, 255, 255);
+		color: #FFF;
 	}
 	
 	
@@ -23,26 +23,26 @@ html {
 	{
 		margin: 0;
 		padding: 0;
-        color: rgb(#FFF);
+        color: #FFF;
 	}
 	
 	p, ol, ul
 	{
 		margin-top: 0;
-        color: rgb(#FFF);
+        color: #FFF;
 	}
 	
 	ol, ul
 	{
 		padding: 0;
 		list-style: none;
-        color: rgb(#FFF);
+        color: #FFF;
 	}
 	
 	p
 	{
 		line-height: 180%;
-        color: rgb(#FFF);
+        color: #FFF;
 	}
 	
 	strong
@@ -467,6 +467,7 @@ ul.actions li
 		padding: 2em 0em 5em 0em;
 		background: rgb(#FFF)
 		z-index: -1;
+        color: rgb(#FFF);
 	}
 
 	#week02
@@ -780,12 +781,13 @@ ul.actions li
 	#three-column .title h2
 	{
 		font-weight: bold;
-		color: rgba(0,0,0,0.8);
+		color: #FFF;
+        
 	}
 
 	#three-column .title .byline
 	{
 		text-align: center;
-		color: rgba(0,0,0,.5);
+		color: #FFF;
 	}
 
