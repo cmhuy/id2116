@@ -15,7 +15,7 @@ html {
 		font-family: 'Didact Gothic', sans-serif;
 		font-size: 12pt;
 		font-weight: 200;
-		color: #FFF;
+		color: rgb(0, 0, 0);
 	}
 	
 	
@@ -461,7 +461,7 @@ ul.actions li
 	{
 		position: relative;
 		padding: 2em 0em 5em 0em;
-		background: #FFF;
+		background: rgb(0, 0, 0);
 		z-index: -1;
 	}
 
@@ -469,84 +469,84 @@ ul.actions li
 	{
 		position: relative;
 		padding: 2em 0em 5em 0em;
-		background: #FFF;
+		background: rgb(0, 0, 0);
 		z-index: -1;
 	}
 	#week03
 	{
 		position: relative;
 		padding: 2em 0em 5em 0em;
-		background: #FFF;
+		background: rgb(0, 0, 0);
 		z-index: -1;
 	}
 	#week04
 	{
 		position: relative;
 		padding: 2em 0em 5em 0em;
-		background: #FFF;
+		background: rgb(0, 0, 0);
 		z-index: -1;
 	}
 	#week05
 	{
 		position: relative;
 		padding: 2em 0em 5em 0em;
-		background: #FFF;
+		background: rgb(0, 0, 0);
 		z-index: -1;
 	}
 	#week06
 	{
 		position: relative;
 		padding: 2em 0em 5em 0em;
-		background: #FFF;
+		background: rgb(0, 0, 0);
 		z-index: -1;
 	}
 	#week07
 	{
 		position: relative;
 		padding: 2em 0em 5em 0em;
-		background: #FFF;
+		background: rgb(0, 0, 0);
 		z-index: -1;
 	}
 	#week08
 	{
 		position: relative;
 		padding: 2em 0em 5em 0em;
-		background: #FFF;
+		background: rgb(0, 0, 0);
 		z-index: -1;
 	}
 	#week09
 	{
 		position: relative;
 		padding: 2em 0em 5em 0em;
-		background: #FFF;
+		background: rgb(0, 0, 0);
 		z-index: -1;
 	}
 	#week10
 	{
 		position: relative;
 		padding: 2em 0em 5em 0em;
-		background: #FFF;
+		background: rgb(0, 0, 0);
 		z-index: -1;
 	}
 	#week11
 	{
 		position: relative;
 		padding: 2em 0em 5em 0em;
-		background: #FFF;
+		background: rgb(0, 0, 0);
 		z-index: -1;
 	}
 	#week12
 	{
 		position: relative;
 		padding: 2em 0em 5em 0em;
-		background: #FFF;
+		background: rgb(0, 0, 0);
 		z-index: -1;
 	}
 	#week13
 	{
 		position: relative;
 		padding: 2em 0em 5em 0em;
-		background: #FFF;
+		background: rgb(0, 0, 0);
 		z-index: -1;
 	}
 /*********************************************************************************/
